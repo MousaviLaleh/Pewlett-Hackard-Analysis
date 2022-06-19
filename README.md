@@ -30,6 +30,7 @@ Take the steps:
 ### The Employees Eligible for the Mentorship Program
 List of employees who are eligible for a mentorship program in the [Mentorship Eligibility](Data/mentorship_eligibilty.csv) table that holds the current employees who were born between January 1, 1965 and December 31, 1965. <br/> 
 ![mp.png](Data/mp.png)
+
 <br/>
 <br/>
 
@@ -46,9 +47,9 @@ And luckily there are 1549 [qualified, retirement-ready employees](Data/mentorsh
 
 
 ## Summary
-Ideally, as the silver tsunami approaches the idea would be to prepare and be on the look for [13,505 employees](Data/retiring_employees.csv). This number represents the number of people that are currently working at the company, have been there since 1985 to 1988, and their birth date is between 1962 and 1965 to be eligible to leave work. The plan is to offer these people the mentorship program so that they can keep mentoring new employees. However, if they decide to go PH should be ready to hire that amount of people.<br/>
-Now, to check if there are enough [potential mentors](Data/retiring_employees_dept.csv) in all of the departments, we recreated the retiring_employees table to add the department they belong to.<br/>
-The final step is grouping the data in retiring_employees_dept table by departmen, to count the number of potential mentors in each department.
-![]()
+Ideally, as the silver tsunami approaches the idea would be to prepare and be on the look for 72,458 employees. This number represents the number of people that are currently working at the company,  and their birth date is between 1952 and 1955 to be eligible to leave work.<br/>
+The plan is to offer the mentorship program to the employees whose birth date is 1965, so that they can mentoring new employees. Number of potential mentors is 1549 in total, which is a significant number.<br/>
+check the number of potential mentors in each department.
+![mt.png](Data/mt.png)
 
 
