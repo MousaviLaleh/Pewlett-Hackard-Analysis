@@ -42,7 +42,7 @@ Out of those employees leaving, there will be a large number of [positions](Data
 
 #### Qualified Mentor 
 And luckily there are 1549 [qualified, retirement-ready employees](Data/mentorship_eligibilty.csv) in the departments to mentor the next generation of Pewlett Hackard. One mentor for 1.7 new employee.
-
+<br/>
 
 ## Summary
 Ideally, as the silver tsunami approaches, the idea would be to prepare and be on the look for 72,458 employees. This number represents the number of people that are currently working at the company,  and their birth date is between 1952 and 1955 to be eligible to leave work.<br/>
