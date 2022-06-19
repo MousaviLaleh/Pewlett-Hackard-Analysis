@@ -5,13 +5,14 @@ Employee database analysis on retiring employees using SQL and pgAdmin
 The purpose of this analysis was to conduct an analysis for Pewlett Hackard company, with detailed information on the number of future retirees from all departments currently working at the company to be able to prepare a plan to hire new staff and also to prepare a mentorship program. <br/>
 The criterion was based on the birth dates ranging from 1952 to 1955 and hired dates from 1985 to 1988.
 
+
+
+## Analysis
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 [Tables Relationship Diagram](files/ERD.png)
 shows the structure of dataset, the relationship between tha data tables, and the Primary and Foreign Keys, that helps the analysis.
 <br/>
 <br/>
-
-## Analysis
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 ### The Number of Retiring Employees by Title  ( 133776 )
 
