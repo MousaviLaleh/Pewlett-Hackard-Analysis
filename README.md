@@ -40,7 +40,7 @@ After creating the [unique_titles table](Data/unique_titles.csv) by joining the 
 
 #### Future Job Openings
 Out of those employees leaving, there will be a large number of [positions](Data/open_position.png) to be filled at Pewlett-Hackard company. Planning for the future is needed.<br/>
-But there are 1549 retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard. One mentor for 1.7 new employee.([Mentorship Eligibility](Data/mentorship_eligibilty.csv) table)
+And luckily there are 1549 [qualified, retirement-ready employees](Data/mentorship_eligibilty.csv) in the departments to mentor the next generation of Pewlett Hackard. One mentor for 1.7 new employee.
 
 
 ## Summary
