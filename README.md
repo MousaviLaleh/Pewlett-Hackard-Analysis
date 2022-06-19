@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis
 Employee database analysis on retiring employees using SQL and pgAdmin
 
 ## Overview of the analysis
@@ -12,7 +12,15 @@ The structure of dataset, the relationship between tha data tables, and the Prim
 ![ERD.png](files/ERD.png) <br/>
 
 <br/>
-### The Number of Retiring Employees by Title
+### Future Job Openings ( 133776 )
+Take the steps:
+#### Create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955
+
+#### Create a Unique Titles table that contains the employee number, first and last name, and most recent title
+
+#### Create a Retiring Titles table that contains the number of titles filled by employees who are retiring
+
+![open_position.png](files/open_position.png) <br/>
 
 
 
