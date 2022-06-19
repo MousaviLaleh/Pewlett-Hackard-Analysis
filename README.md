@@ -6,7 +6,7 @@ The purpose of this analysis was to conduct an analysis for Pewlett Hackard comp
 The criterion was based on the birth dates ranging from 1952 to 1955 and hired dates from 1985 to 1988.
 
 [Tables Relationship Diagram](files/ERD.png)
-shows the structure of dataset, the relationship between tha data tables, and the Primary and Foreign Keys that helps the analysis.
+shows the structure of dataset, the relationship between tha data tables, and the Primary and Foreign Keys, that helps the analysis.
 <br/>
 <br/>
 
