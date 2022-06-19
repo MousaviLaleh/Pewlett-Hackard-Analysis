@@ -39,12 +39,10 @@ List of employees who are eligible for a mentorship program in the [Mentorship E
 After creating the [unique_titles table](Data/unique_titles.csv) by joining the employees and titles tables, filtering them by date of birth and date hired, removing duplicates, and ordering the data points by date hired, there are 90,398 employees retiring as per the above criterion.
 
 #### Future Job Openings
-Out of those employees leaving, there will be a large number of [positions](Data/open_position.png) to be filled at Pewlett-Hackard company. Planning for the future is needed.<br/>
+Out of those employees leaving, there will be a large number of [positions](Data/open_position.png) to be filled at Pewlett-Hackard company. Planning for the future is needed.
+
 #### Qualified Mentor 
 And luckily there are 1549 [qualified, retirement-ready employees](Data/mentorship_eligibilty.csv) in the departments to mentor the next generation of Pewlett Hackard. One mentor for 1.7 new employee.
 
 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
