@@ -17,9 +17,11 @@ The structure of dataset, the relationship between tha data tables, and the Prim
 ### The Number of Retiring Employees by Title  ( 133776 )
 
 Take the steps:
-  - Create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955
-  - Create a Unique Titles table that contains the employee number, first and last name, and most recent title
-  - Create a Retiring Titles table that contains the number of titles filled by employees who are retiring
+  - Create a [Retirement Titles](files/retirement_titles.csv) table for employees who are born between January 1, 1952 and December 31, 1955
+  - Create a [Unique Titles](files/unique_titles.csv) table that contains the employee number, first and last name, and most recent title
+  - Create a [Retiring Titles](files/retiring_titles.csv) table that contains the number of titles filled by employees who are retiring
+
+
 
 
 
@@ -27,11 +29,6 @@ Take the steps:
 
 ## Future Job Openings
 ![open_position.png](files/open_position.png) <br/>
-
-
-
-
-
 
 
 
