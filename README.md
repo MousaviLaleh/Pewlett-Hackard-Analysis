@@ -3,7 +3,7 @@ Employee database analysis on retiring employees using SQL and pgAdmin
 
 ## Overview of the analysis
 The purpose of this analysis was to conduct an analysis for Pewlett Hackard company, with detailed information on the number of future retirees from all departments currently working at the company to be able to prepare a plan to hire new staff and also to prepare a mentorship program. <br/>
-The criterion was based on the birth dates ranging from 1952 to 1955 and hired dates from 1985 to 1988.
+The criterion was based on the birth dates ranging from 1952  to 1955 and hired dates from 1985 to 1988.
 
 
 
