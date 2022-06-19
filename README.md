@@ -28,7 +28,9 @@ Take the steps:
 <br/>
 
 ### The Employees Eligible for the Mentorship Program
-For this goal we did create a [Mentorship Eligibility](Data/mentorship_eligibilty.csv) table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+List of employees who are eligible for a mentorship program in the [Mentorship Eligibility](Data/mentorship_eligibilty.csv) table that holds the current employees who were born between January 1, 1965 and December 31, 1965. <br/> 
+a glance of the data of this table <br/>
+![]()
 
 
 
