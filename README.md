@@ -8,7 +8,7 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 
 ## Analysis
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.<br/>
+
 **[Tables Relationship Diagram](Data/ERD.png)**
 shows the structure of dataset, the relationship between tha data tables, and the Primary and Foreign Keys, that helps the analysis.
 <br/>
