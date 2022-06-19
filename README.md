@@ -37,7 +37,7 @@ List of employees who are eligible for a mentorship program in the [Mentorship E
 ## Results
 
 #### Future Job Openings
-By conducting the analysis it was found that there is currently a large number of retirement rate holding senior titles with around 64% of the staff to retire.<br/>
+By conducting the analysis it was found that there is currently a large number of retirement rate holding senior titles with around 64% of the staff to retire, 90,398 positions total.<br/>
 ![open_position.png](Data/open_position.png) <br/>
 
 
