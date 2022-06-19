@@ -33,7 +33,7 @@ List of employees who are eligible for a mentorship program in the [Mentorship E
 <br/>
 <br/>
 
-## Summary
+## Results
 
 #### Total number of retiring
 After creating the [unique_titles table](Data/unique_titles.csv) by joining the employees and titles tables, filtering them by date of birth and date hired, removing duplicates, and ordering the data points by date hired, there are 90,398 employees retiring as per the above criterion.
@@ -43,6 +43,11 @@ Out of those employees leaving, there will be a large number of [positions](Data
 
 #### Qualified Mentor 
 And luckily there are 1549 [qualified, retirement-ready employees](Data/mentorship_eligibilty.csv) in the departments to mentor the next generation of Pewlett Hackard. One mentor for 1.7 new employee.
+
+
+## Summary
+Ideally, as the silver tsunami approaches the idea would be to prepare and be on the look for [13,505 employees](Data/retiring_employees.csv). This number represents the number of people that are currently working at the company, have been there since 1985 to 1988, and their birth date is between 1962 and 1965 to be eligible to leave work. The plan is to offer these people the mentorship program so that they can keep mentoring new employees. However, if they decide to go PH should be ready to hire that amount of people.<br/>
+
 
 
 
