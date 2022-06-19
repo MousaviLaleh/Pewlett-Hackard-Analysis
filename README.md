@@ -46,6 +46,9 @@ And luckily there are 1549 [qualified, retirement-ready employees](Data/mentorsh
 
 
 ## Summary
-Ideally, as the silver tsunami approaches the idea would be to prepare and be on the look for 13,505 employees ( [retiring_employees.csv](Data/retiring_employees.csv) ) This number represents the number of people that are currently working at the company, have been there since 1985 to 1988, and their birth date is between 1962 and 1965 to be eligible to leave work. The plan is to offer these people the mentorship program so that they can keep mentoring new employees. However, if they decide to go PH should be ready to hire that amount of people.<br/>
+Ideally, as the silver tsunami approaches the idea would be to prepare and be on the look for [13,505 employees](Data/retiring_employees.csv). This number represents the number of people that are currently working at the company, have been there since 1985 to 1988, and their birth date is between 1962 and 1965 to be eligible to leave work. The plan is to offer these people the mentorship program so that they can keep mentoring new employees. However, if they decide to go PH should be ready to hire that amount of people.<br/>
+Now, to check if there are enough [potential mentors](Data/retiring_employees_dept.csv) in all of the departments, we recreated the retiring_employees table to add the department they belong to.<br/>
+The final step is grouping the data in retiring_employees_dept table by departmen, to count the number of potential mentors in each department.
+![]()
 
 
