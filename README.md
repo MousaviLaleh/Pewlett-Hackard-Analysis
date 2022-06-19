@@ -37,11 +37,9 @@ List of employees who are eligible for a mentorship program in the [Mentorship E
 ## Results
 
 #### Future Job Openings
-By conducting the analysis it was found that there is currently a large number of retirement rate holding senior titles. The count of employees expected to retire totals 90,398 at Pewlett-Hackard company. Planning for the future is needed.<br/>
-![op.png](Data/op.png)
-
-
-
+By conducting the analysis it was found that there is currently a large number of retirement rate holding senior titles. The count of roles will need to be filled totals 90,398 at Pewlett-Hackard company as the 'Silver tsunami' begings. Planning for the future is needed.<br/>
+![op.png](Data/op.png) <br/>
+But there are 1459 retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard ([Mentorship Eligibility](Data/mentorship_eligibilty.csv) table)
 
 
 ## Summary
