@@ -47,7 +47,7 @@ And luckily there are 1549 [qualified, retirement-ready employees](Data/mentorsh
 
 
 ## Summary
-Ideally, as the silver tsunami approaches the idea would be to prepare and be on the look for 72,458 employees. This number represents the number of people that are currently working at the company,  and their birth date is between 1952 and 1955 to be eligible to leave work.<br/>
+Ideally, as the silver tsunami approaches, the idea would be to prepare and be on the look for 72,458 employees. This number represents the number of people that are currently working at the company,  and their birth date is between 1952 and 1955 to be eligible to leave work.<br/>
 The plan is to offer the mentorship program to the employees whose birth date is 1965, so that they can mentoring new employees. Number of potential mentors is 1549 in total, which is a significant number.<br/>
 ![mt.png](Data/mt.png)
 
