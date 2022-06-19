@@ -23,6 +23,7 @@ Take the steps:
     to remove the duplicate data from the Retirement_Titles table <br/>
     ![ut.png](Files/ut.png)<br/>
   - Create a [Retiring Titles](Files/retiring_titles.csv) table that contains the number of titles filled by employees who are retiring.<br/>
+    ![open_position.png](Files/open_position.png)<br/>
 
 <br/>
 
