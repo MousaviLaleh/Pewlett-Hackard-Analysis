@@ -14,7 +14,7 @@ shows the structure of dataset, the relationship between tha data tables, and th
 <br/>
 <br/>
 
-### The Number of Retiring Employees by Title  ( 133776 )
+### The Number of Retiring Employees by Title
 
 Take the steps:
   - Create a [Retirement Titles](Data/retirement_titles.csv) table for employees who are born between January 1, 1952 and December 31, 1955.<br/>
