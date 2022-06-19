@@ -4,8 +4,7 @@ Employee database analysis on retiring employees using [PostgreSQL](https://www.
 ## Overview of the project
 The purpose of this project was to conduct an analysis for Pewlett Hackard company, with detailed information on the number of future retirees from all departments working at the company, to be able to prepare a plan to hire new staff and also to prepare a mentorship program.<br/>
 The criterion was based on the birth dates ranging from 1952  to 1955 and hired dates from 1985 to 1988.
-
-
+<br/>
 
 ## Analysis
 
@@ -31,7 +30,6 @@ Take the steps:
 List of employees who are eligible for a mentorship program in the [Mentorship Eligibility](Data/mentorship_eligibilty.csv) table that holds the current employees who were born between January 1, 1965 and December 31, 1965. <br/> 
 ![mp.png](Data/mp.png)
 
-<br/>
 <br/>
 
 ## Results
