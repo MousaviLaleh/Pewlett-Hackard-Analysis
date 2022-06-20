@@ -35,8 +35,9 @@ List of employees who are eligible for a mentorship program in the [Mentorship E
 <br/>
 
 ## Summary
-Ideally, as the silver tsunami approaches, the idea would be to prepare and be on the look for 72,458 employees. This number represents the number of people that are currently working at the company,  and their birth date is between 1952 and 1955 to be eligible to leave work.<br/>
-The plan is to offer the mentorship program to the employees whose birth date is 1965, so that they can mentoring new employees. Number of potential mentors is 1549 in total, which is a significant number.
-
+Ideally, as the silver tsunami approaches, the idea would be to prepare and be on the look for 72,458 employees. This number represents the number of people that are currently working at the company and their birth date is between 1952 and 1955 to be eligible to leave work.<br/>
+The plan is to offer the mentorship program to the employees whose birth date is between January 1, 1965 and December 31, 1965, so that they can mentoring new employees. Number of potential mentors is 1549 in total which is 2.14% of the retiring rate and each mentor can cover 47 new employees.
+<br/>
+<br/>
 
 
