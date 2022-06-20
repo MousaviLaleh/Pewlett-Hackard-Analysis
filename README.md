@@ -18,7 +18,7 @@ Take the steps:
   - Create a [Retirement Titles](Data/retirement_titles.csv) table for employees who are born between January 1, 1952 and December 31, 1955.<br/>
   ![rt.png](Data/rt.png) <br/>
   - Create a [Unique Titles](Data/unique_titles.csv) table that contains the employee number, first and last name, and most recent title,<br/>
-    to remove the duplicate data from the Retirement_Titles table <br/>
+    to remove the duplicate entries from the Retirement_Titles table <br/>
     ![ut.png](Data/ut.png)<br/>
   - Create a [Retiring Titles](Data/retiring_titles.csv) table that contains the number of titles filled by employees who are retiring.<br/>
     ![open_position.png](Data/open_position.png)<br/>
