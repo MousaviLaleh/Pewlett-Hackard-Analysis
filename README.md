@@ -27,8 +27,10 @@ Take the steps:
 
 ### The Employees Eligible for the Mentorship Program
 List of employees who are eligible for a mentorship program in the [Mentorship Eligibility](Data/mentorship_eligibilty.csv) table that holds the current employees who were born between January 1, 1965 and December 31, 1965.<br/> 
-
 ![mp.png](Data/mp.png)
+<br/>
+#### Number of potential mentors in each department
+![mt.png](Data/mt.png)
 
 <br/>
 
