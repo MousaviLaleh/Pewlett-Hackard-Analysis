@@ -29,14 +29,14 @@ Take the steps:
 List of employees who are eligible for a mentorship program in the [Mentorship Eligibility](Data/mentorship_eligibilty.csv) table that holds the current employees who were born between January 1, 1965 and December 31, 1965.<br/> 
 ![mp.png](Data/mp.png)
 <br/>
-#### Number of potential mentors in each department
-![mt.png](Data/mt.png)
+#### Number of Potential Mentors in Each Department
+  ![mt.png](Data/mt.png)
 
 <br/>
 
 ## Summary
 Ideally, as the silver tsunami approaches, the idea would be to prepare and be on the look for 72,458 employees. This number represents the number of people that are currently working at the company,  and their birth date is between 1952 and 1955 to be eligible to leave work.<br/>
-The plan is to offer the mentorship program to the employees whose birth date is 1965, so that they can mentoring new employees. Number of potential mentors is 1549 in total, which is a significant number.  <img src="Data/mt.png" align="right" >
+The plan is to offer the mentorship program to the employees whose birth date is 1965, so that they can mentoring new employees. Number of potential mentors is 1549 in total, which is a significant number.
 
 
 
