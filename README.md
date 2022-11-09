@@ -2,7 +2,7 @@
 Employee database analysis on retiring employees using [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) and pgAdmin.
 
 ## Overview of the project
-The purpose of this project was to conduct an analysis for Pewlett Hackard company, with detailed information on the number of future retirees from all departments working at the company, to be able to prepare a plan to hire new staff and also to prepare a mentorship program. The criterion was based on the birth dates ranging from January 1, 1965 and December 31, 1965.
+The purpose of this project is to conduct an analysis for Pewlett Hackard company, with detailed information on the number of future retirees from all departments working at the company, to be able to prepare a plan to hire new staff and also to prepare a mentorship program. The criterion was based on the birth dates ranging from January 1, 1965 and December 31, 1965.
 <br/>
 
 ## Analysis
